@@ -42,3 +42,10 @@
 • Clears old charts before adding new ones  
 • Fully dynamic, auto-updating graphs  
 • Live update when currency selection changes  
+
+
+                                                    The photographs show the first initial window
+<img width="1918" height="1127" alt="111" src="https://github.com/user-attachments/assets/29aaaf47-f6c6-4f38-b7cd-e64009ad1f77" />
+
+                                                  The photo shows the currency conversion and charts
+<img width="1918" height="1118" alt="222" src="https://github.com/user-attachments/assets/390d05cb-ea90-4191-a549-e0dfba4a0a9a" />
